@@ -5,7 +5,7 @@ export const handlers = [
     return res(
       ctx.json([
         { id: 1, name: "Tausif" },
-        { id: 2, name: "Rahul" },
+        { id: 2, name: "Nehal" },
       ])
     );
   }),
